@@ -1,0 +1,11 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/year"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="?android:selectableItemBackground"
+    android:minHeight="50dp"
+    android:padding="10dp"
+    tools:context=".MainActivity$PlaceholderFragment"
+    android:text="Months of year"
+    android:gravity="center_vertical"/>
